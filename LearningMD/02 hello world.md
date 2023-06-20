@@ -62,5 +62,3 @@ x86上电之后，cs寄存器的值默认为：0xf000，并会执行jmpf 0xf000:
 | `0xF0000` | `0xFFFEF` | 64KB-16B | 系统 BIOS          |
 | `0xFFFF0` | `0xFFFFF` | 16B      | 系统 BIOS 入口地址 |
 
-My API
-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
